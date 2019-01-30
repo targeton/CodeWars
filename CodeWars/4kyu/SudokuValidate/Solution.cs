@@ -13,7 +13,7 @@ namespace CodeWars._4kyu.SudokuValidate
             //Constructor here
             _data = sudokuData;
         }
-        //利用_rowCheck,_colCheck,_gridCheck记录每行、每列和每个片区内的是否有重复值，通过标志位来检测
+
         public bool IsValid()
         {
             int n = _data.Length;
