@@ -1,12 +1,12 @@
-# **CodeWars**ϰ��������
+﻿# CodeWars习题解决方案
 
-## ����˵��
+## 工程说明
 
-	��ǰ�����������������¼[CodeWars](https://www.codewars.com/dashboard)��վ��C#ϰ��Ľ�������Ͳ��Թ��̣������ڲο�ѧϰC#���뼰��ؽ�������е��㷨˼·
+	当前解决方案用于整理记录 [CodeWars](https://www.codewars.com/dashboard) 网站上C#习题的解决方案和测试工程，可用于参考学习C#代码及相关解决方案中的算法思路
 
-### Ŀ¼�ṹ
+### 目录结构
 
-	���������Ҫ��Ϊ�������̣�CodeWars��CodeWarsTest
+	解决方案主要分为两个工程：CodeWars、CodeWarsTest
 
-	* CodeWars����������ṩ�������
-	* CodeWarsTest����Ԫ���Թ���
+	- CodeWars：针对问题提供解决方案
+	- CodeWarsTest：单元测试工程
