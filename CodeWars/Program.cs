@@ -24,7 +24,11 @@ namespace CodeWars
             //Console.WriteLine(arr.Take(0).Sum());
             //Console.WriteLine(arr.Skip(0 + 1).Take(arr.Length - 1).Sum());
             //Stack<int> stack = new Stack<int>();
-
+            string str = "(x-2)^2";
+            string[] strs = str.Split('^');
+            //Console.WriteLine(int.Parse(strs[0]));
+            Console.WriteLine(3.14 + (1e20 - 1e20));
+            Console.WriteLine(int.Parse(strs[1]));
             string input = "123 45 6";
             Console.WriteLine(input);
             Console.WriteLine(Justify(input, 8));
