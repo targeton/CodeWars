@@ -56,6 +56,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="4kyu\SortBinaryTreeByLevels\SolutionTest.cs" />
     <Compile Include="4kyu\SudokuValidate\SolutionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
