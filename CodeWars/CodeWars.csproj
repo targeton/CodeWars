@@ -49,8 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="4kyu\FunctionalStreams\Question.md" />
     <None Include="4kyu\SortBinaryTreeByLevels\Question.md" />
     <None Include="4kyu\SudokuValidate\Question.md" />
+    <Compile Include="4kyu\FunctionalStreams\Stream.cs" />
     <Compile Include="4kyu\SortBinaryTreeByLevels\Solution.cs" />
     <Compile Include="4kyu\SudokuValidate\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

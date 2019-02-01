@@ -15,7 +15,7 @@ namespace CodeWars._4kyu.SortBinaryTreeByLevels
             Value = v;
         }
     }
-    public class Solution
+    public class Kata
     {
         public static List<int> TreeByLevels(Node node)
         {
