@@ -62,6 +62,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="3kyu\AlphabeticAnagrams\SolutionTest.cs" />
     <Compile Include="4kyu\FunctionalStreams\StreamTest.cs" />
     <Compile Include="4kyu\SortBinaryTreeByLevels\SolutionTest.cs" />
     <Compile Include="4kyu\SudokuValidate\SolutionTest.cs" />
@@ -76,6 +77,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
