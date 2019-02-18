@@ -48,5 +48,6 @@
             var calculator = new Calculator();
             Assert.AreEqual(177.5, 10 * calculator.Six.Plus.Four.Times.Three.Minus.Two.DividedBy.Eight.Times.One.Minus.Five.Times.Zero);
         }
+        
     }
 }

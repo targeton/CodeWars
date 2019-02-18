@@ -63,6 +63,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="3kyu\AlphabeticAnagrams\SolutionTest.cs" />
+    <Compile Include="4kyu\FluentCalculator\CalculatorTest.cs" />
     <Compile Include="4kyu\FunctionalStreams\StreamTest.cs" />
     <Compile Include="4kyu\SortBinaryTreeByLevels\SolutionTest.cs" />
     <Compile Include="4kyu\SudokuValidate\SolutionTest.cs" />
