@@ -62,6 +62,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="2kyu\findPosition\InfiniteDigitalStringTest.cs" />
     <Compile Include="3kyu\AlphabeticAnagrams\SolutionTest.cs" />
     <Compile Include="4kyu\FluentCalculator\CalculatorTest.cs" />
     <Compile Include="4kyu\FunctionalStreams\StreamTest.cs" />

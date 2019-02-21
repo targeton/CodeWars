@@ -49,11 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="2kyu\findPosition\Question.md" />
     <None Include="3kyu\AlphabeticAnagrams\Question.md" />
     <None Include="4kyu\FluentCalculator\Question.md" />
     <None Include="4kyu\FunctionalStreams\Question.md" />
     <None Include="4kyu\SortBinaryTreeByLevels\Question.md" />
     <None Include="4kyu\SudokuValidate\Question.md" />
+    <Compile Include="2kyu\findPosition\InfiniteDigitalString.cs" />
     <Compile Include="3kyu\AlphabeticAnagrams\Solution.cs" />
     <Compile Include="4kyu\FluentCalculator\Calculator.cs" />
     <Compile Include="4kyu\FunctionalStreams\Stream.cs" />
